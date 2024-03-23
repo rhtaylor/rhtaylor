@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhtaylor
 - 👀 I’m interested in business, IT, web, technology
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently getting Terraform certification
 - 💞️ I’m looking to collaborate on everything I can get my hands on
 - 📫 How to reach me @ rthaylorgithub@gmail.com
 
